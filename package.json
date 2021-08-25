@@ -1,0 +1,49 @@
+{
+  "name": "danbot-hosting-stats-poster",
+  "version": "1.0.0",
+  "description": "A stats poster for danbot-hosting bot API.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "callsites": "^3.1.0",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.1.0",
+    "dot-prop": "^6.0.1",
+    "is-obj": "^2.0.0",
+    "lodash.isequal": "^4.5.0",
+    "mime-db": "^1.49.0",
+    "mime-types": "^2.1.32",
+    "node-fetch": "^2.6.1",
+    "ow": "^0.27.0",
+    "ts-mixer": "^6.0.0",
+    "tslib": "^2.3.1",
+    "type-fest": "^1.4.0",
+    "vali-date": "^1.0.0",
+    "ws": "^7.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FC5570/danbot-hosting-stats-poster.git"
+  },
+  "keywords": [
+    "js",
+    "dbh",
+    "poster",
+    "autoposter",
+    "discord"
+  ],
+  "author": "FC5570",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FC5570/danbot-hosting-stats-poster/issues"
+  },
+  "homepage": "https://github.com/FC5570/danbot-hosting-stats-poster#readme"
+}
